@@ -12,7 +12,7 @@ PROJECT_DIR = path(__file__).abspath().parent
 
 
 def main():
-    tmp = path(mkdtemp())
+    tmp = path(mkdtemp(dir=PROJECT_DIR))
 
     try:
         download_kml = tmp / 'download.kml'
