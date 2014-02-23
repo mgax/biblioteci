@@ -25,7 +25,8 @@ def get_gdrive_csv(key):
 new_data = {}
 for row in get_gdrive_csv('0ApN4Tp2ea9EKdG8yWHB2VWxieGlTMkM4Nm1ENzhVc2c'):
     if row['id']:
-        new_data[int(row['id'])] = row
+        row['id'] = int(row['id'])
+        new_data[row['id']] = row
 
 p = path('biblioteci.geojson')
 data = json.loads(p.text())
