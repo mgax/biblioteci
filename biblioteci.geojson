@@ -31106,6 +31106,27 @@
                 "website_url": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.2236328125,
+                    43.51668853502906
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "",
+                "catalog_url": "",
+                "description": "",
+                "facebook_url": "",
+                "id": 679,
+                "locality": "",
+                "name": "new 4",
+                "open_hours": "",
+                "website_url": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
