@@ -31064,6 +31064,27 @@
                 "website_url": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.81689453125,
+                    43.866218006556394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "",
+                "catalog_url": "",
+                "description": "",
+                "facebook_url": "",
+                "id": 677,
+                "locality": "",
+                "name": "new 2",
+                "open_hours": "",
+                "website_url": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
