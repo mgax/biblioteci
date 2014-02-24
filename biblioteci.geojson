@@ -31043,6 +31043,27 @@
                 "youtube_url": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    25.556790232658383,
+                    47.529702045903406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "725100, Calea Bucovinei, nr. 4",
+                "catalog_url": "",
+                "description": "Continu\u0103 activitatea primelor biblioteci din C\u00e2mpulung Moldovenesc care au func\u0163ionat din 1896 pe l\u00e2ng\u0103 cabinetul de lectur\u0103 \\\"De\u015fteptarea\\\", Clubul rom\u00e2n \\\"Rar\u0103ul\\\" \u015fi Societatea \\\"\u015ecoala Rom\u00e2n\u0103\\\"; \u00een iunie 1936 ia fiin\u0163\u0103 Biblioteca Jude\u0163eana a fostului jude\u0163 C\u00e2mpulung Bucovina prin contopirea acestora \u015fi a Bibliotecii \u00cenv\u0103\u0163\u0103torilor. Biblioteca public\u0103 jude\u0163ean\u0103 s-a \u00eenfiin\u0163at la ini\u0163iativa unui comitet compus din prof. dr. I. Bile\u0163chi, prof. George Voevidca, director George Popescu, preot dr. Ilie P\u0103s\u0103il\u0103, \u00een frunte cu prefectul de atunci al jude\u0163ului, Constantin Leontie\u015f, fiind creat\u0103: \\\"cu g\u00e2ndul de a \u00eencet\u0103\u0163eni cartea rom\u00e2neasc\u0103 pe aceste meleaguri \u00eenstr\u0103inate timp de aproape un veac \u015fi jum\u0103tate\\\". Biblioteca jude\u0163ean\u0103 avea s\u0103-\u015fi schimbe statutul juridic \u015fi numele dup\u0103 transform\u0103rile administrative suferite de localitate: regional\u0103, or\u0103\u015feneasc\u0103, municipal\u0103",
+                "facebook_url": "",
+                "id": 676,
+                "locality": "C\u00e2mpulung Moldovenesc",
+                "name": "Biblioteca Municipal\u0103 C\u00e2mpulung Moldovenesc",
+                "open_hours": "",
+                "website_url": "http://www.campulungmoldovenesc.ro/oras/cultura/biblioteca.html"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
