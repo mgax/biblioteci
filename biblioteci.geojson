@@ -31064,6 +31064,27 @@
                 "website_url": "http://www.campulungmoldovenesc.ro/oras/cultura/biblioteca.html"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    24.777238368988037,
+                    45.26550862649511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "",
+                "catalog_url": "",
+                "description": "",
+                "facebook_url": "",
+                "id": 677,
+                "locality": "Gale\u0219",
+                "name": "Biblioteca Satului Gale\u0219",
+                "open_hours": "",
+                "website_url": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
