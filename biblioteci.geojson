@@ -31007,46 +31007,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    25.301513671875,
-                    44.3670601700202
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "address": "",
-                "blogspot_url": "",
-                "catalog_url": "",
-                "country": "",
-                "description": "",
-                "email": "",
-                "facebook_url": "",
-                "housed_in": "",
-                "id": 675,
-                "is_branch": "",
-                "is_city": "",
-                "is_county": "",
-                "is_municipal": "",
-                "is_museum": "",
-                "is_national": "",
-                "is_part_of": "",
-                "is_school": "",
-                "is_university": "",
-                "is_village": "",
-                "locality": "",
-                "name": "",
-                "open_hours": "",
-                "telephone": "",
-                "test": "test 1",
-                "twitter_url": "",
-                "website_url": "",
-                "wordpress_url": "",
-                "youtube_url": ""
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     25.556790232658383,
                     47.529702045903406
                 ],
