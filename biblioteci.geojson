@@ -26327,6 +26327,27 @@
                 "website_url": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.105065941810608,
+                    44.43729998483055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Str. Arghezi Tudor, 8-10, Sector 2, 020945",
+                "catalog_url": "http://www.goethe.de/ins/ro/buk/kul/bib/opc/roindex.htm",
+                "description": "",
+                "facebook_url": "https://www.facebook.com/pages/Goethe-Institut-Bucuresti/124609800892596",
+                "id": 678,
+                "locality": "Bucure\u0219ti",
+                "name": "Biblioteca Institutului Goethe",
+                "open_hours": "Luni 14.00 - 17.00; Mar\u0163i\t10.00 - 13.00  14.00 - 19.00; Miercuri  14.00 - 17.00; Joi 10.00 - 13.00  14.00 - 19.00; Vineri 10.00 - 13.00",
+                "website_url": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
