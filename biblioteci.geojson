@@ -26348,6 +26348,27 @@
                 "website_url": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    27.12497591972351,
+                    47.21982679753644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "DN28",
+                "catalog_url": "",
+                "description": "\u00een C\u0103minul Cultural B\u0103l\u021ba\u021bi",
+                "facebook_url": "",
+                "id": 679,
+                "locality": "B\u0103l\u021ba\u021bi",
+                "name": "Biblioteca \u201eGheorghe Chiri\u021bescu\u201d",
+                "open_hours": "",
+                "website_url": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
