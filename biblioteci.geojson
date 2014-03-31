@@ -26369,6 +26369,27 @@
                 "website_url": ""
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.51021659374237,
+                    45.80048454697694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Calea Timi\u0219oarei, nr. 799",
+                "catalog_url": "",
+                "description": "",
+                "facebook_url": "",
+                "id": 680,
+                "locality": "Reca\u0219",
+                "name": "Biblioteca Or\u0103\u0219eneasc\u0103 Reca\u0219",
+                "open_hours": "",
+                "website_url": ""
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
