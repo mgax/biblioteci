@@ -479,7 +479,7 @@
             "properties": {
                 "address": "B-dul Unirii, nr. 140 A",
                 "blogspot_url": "",
-                "catalog_url": "",
+                "catalog_url": "http://86.127.116.162:8080/opac",
                 "country": "",
                 "description": "",
                 "email": "",
